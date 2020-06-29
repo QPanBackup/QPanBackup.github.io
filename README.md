@@ -4,6 +4,7 @@
 - GIS
 - HYD, Hydrology
 - PY, Python
+- MAT, Mathematics
 - MET, Meteorology
 - SIM, Simulation
 - TMP, Template
