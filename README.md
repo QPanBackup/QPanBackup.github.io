@@ -2,6 +2,7 @@
 
 - AI, Artificial Intelligence
 - DAT, Dataset
+- DB, Database
 - DOC, Documentation
 - DS, Data Science
 - GIS
