@@ -7,7 +7,7 @@
 - DS, Data Science
 - GIS
 - HYD, Hydrology
-- ONT, Ontology
+- ONTO, Ontology
 - PY, Python
 - MAT, Mathematics
 - MET, Meteorology
