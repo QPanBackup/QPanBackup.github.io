@@ -5,7 +5,8 @@
 - DB, Database
 - DOC, Documentation
 - DS, Data Science
-- GIS
+- ECO, Ecology
+- GIS, Geographic information system
 - HYD, Hydrology
 - ONTO, Ontology
 - PY, Python
