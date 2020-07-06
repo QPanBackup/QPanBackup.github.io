@@ -1,6 +1,7 @@
 # QPanBackup.github.io
 
 - AI, Artificial Intelligence
+- CLD, Cloud
 - DAT, Dataset
 - DB, Database
 - DOC, Documentation
