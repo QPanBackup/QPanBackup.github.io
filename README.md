@@ -11,6 +11,7 @@
 - ONTO, Ontology
 - PY, Python
 - MAT, Mathematics
+- MS, Microservice
 - MET, Meteorology
 - SIM, Simulation
 - TMP, Template
