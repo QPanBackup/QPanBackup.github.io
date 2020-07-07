@@ -9,6 +9,7 @@
 - ECO, Ecology
 - GIS, Geographic information system
 - HYD, Hydrology
+- LIST: Awesome list of resources
 - ONTO, Ontology
 - PY, Python
 - MAT, Mathematics
