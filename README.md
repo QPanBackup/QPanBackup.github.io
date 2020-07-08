@@ -4,6 +4,7 @@
 - CLD, Cloud
 - DAT, Dataset
 - DB, Database
+- DEVOPS, Development and operations
 - DOC, Documentation
 - DS, Data Science
 - ECO, Ecology
