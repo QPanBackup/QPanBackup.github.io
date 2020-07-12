@@ -2,9 +2,11 @@
 
 - AI, Artificial Intelligence
 - CLD, Cloud
+- DEVOPS, Development and operations
+  - CD, Continues Deployment
+  - MON, Monitor
 - DAT, Dataset
 - DB, Database
-- DEVOPS, Development and operations
 - DOC, Documentation
 - DS, Data Science
 - ECO, Ecology
@@ -16,7 +18,6 @@
 - MAT, Mathematics
 - MET, Meteorology
 - MS, Microservice
-- MON: Monitor
 - SIM, Simulation
 - TMP, Template
 - VCS, Version control system
