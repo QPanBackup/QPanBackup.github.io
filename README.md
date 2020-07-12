@@ -3,8 +3,9 @@
 - AI, Artificial Intelligence
 - CLD, Cloud
 - DEVOPS, Development and operations
-  - CD, Continues Deployment
-  - MON, Monitor
+  - CD (5), Continuous Deployment
+  - CI (6), Continuous Integration
+  - MON (8), Monitor
 - DAT, Dataset
 - DB, Database
 - DOC, Documentation
