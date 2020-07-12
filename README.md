@@ -14,8 +14,9 @@
 - ONTO, Ontology
 - PY, Python
 - MAT, Mathematics
-- MS, Microservice
 - MET, Meteorology
+- MS, Microservice
+- MON: Monitor
 - SIM, Simulation
 - TMP, Template
 - VCS, Version control system
