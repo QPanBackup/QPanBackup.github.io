@@ -11,6 +11,7 @@
 - DOC, Documentation
 - DS, Data Science
 - ECO, Ecology
+- EX, Example
 - GIS, Geographic information system
 - HYD, Hydrology
 - LIST: Awesome list of resources
