@@ -20,6 +20,7 @@
 - MAT, Mathematics
 - MET, Meteorology
 - MS, Microservice
+- SEC, Security
 - SIM, Simulation
 - TMP, Template
 - VCS, Version control system
