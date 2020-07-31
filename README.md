@@ -19,6 +19,7 @@
 - LIST: Awesome list of resources
 - ONTO, Ontology
 - PY, Python
+- PWA, Progressive Web Apps
 - MAT, Mathematics
 - MET, Meteorology
 - MS, Microservice
