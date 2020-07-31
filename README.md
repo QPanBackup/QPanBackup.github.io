@@ -1,7 +1,7 @@
 # QPanBackup.github.io
 
 - AI, Artificial Intelligence
-- BUZ, Business
+- BIZ, Business
 - CLD, Cloud
 - DEVOPS, Development and operations
   - CD (5), Continuous Deployment
