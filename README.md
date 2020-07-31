@@ -1,6 +1,7 @@
 # QPanBackup.github.io
 
 - AI, Artificial Intelligence
+- BUZ, Business
 - CLD, Cloud
 - DEVOPS, Development and operations
   - CD (5), Continuous Deployment
@@ -12,6 +13,7 @@
 - DS, Data Science
 - ECO, Ecology
 - EX, Example
+- FM, Framework
 - GIS, Geographic information system
 - HYD, Hydrology
 - LIST: Awesome list of resources
