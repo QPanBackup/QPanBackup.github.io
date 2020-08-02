@@ -28,3 +28,7 @@
 - TMP, Template
 - VCS, Version control system
 - WEB, Website
+
+# Resources
+
+- [Awesome](https://github.com/sindresorhus/awesome)
