@@ -1,4 +1,4 @@
-# QPanResearch.github.io
+# QPanScience.github.io
 
 - AI, Artificial Intelligence
 - BIZ, Business
